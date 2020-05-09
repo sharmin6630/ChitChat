@@ -1,10 +1,10 @@
-#Client Side:
+#Client Side:#
 
 - Download the app and install in Android Studio.
 
 - set IO.socket url to your local IP in ChatBoxActivity.java file. All the Clients and Server should be connected to the same WIFI or hotspot.
 
-#Server Side:
+#Server Side:#
 
 - Node.js, npm, MongoDB and Robo 3t needs to be installed .
 - Under Project directory execute this command
